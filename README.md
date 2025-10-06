@@ -1,4 +1,4 @@
-app
+# app
 
 commit pull push işlemleri öğrenildi.
 
